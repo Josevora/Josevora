@@ -12,26 +12,21 @@ Stats are few, and grade is BAD, that will change pretty quickly 😏
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>My Projects</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#current-projects">Current Projects</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#hello-github">Hello Github</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#old-projetcs">Old Projects</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#none">None</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+
+<!-- Current Projects -->
