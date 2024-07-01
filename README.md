@@ -9,3 +9,8 @@ Since I'm working with a team now, I'm learning how to use Github in a ... profe
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josevora)](https://github.com/anuraghazra/github-readme-stats)
 
 Stats are few, and grade is BAD, that will change pretty quickly 😏
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
