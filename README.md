@@ -21,7 +21,7 @@ Stats are few, and grade is BAD, that will change pretty quickly 😏
       </ul>
     </li>
     <li>
-      <a href="#old-projetcs">Old Projects</a>
+      <a href="#old-projects">Old Projects</a>
       <ul>
         <li><a href="#none">None</a></li>
       </ul>
